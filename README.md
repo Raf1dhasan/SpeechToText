@@ -41,7 +41,7 @@ The **Speech to Text App** was created to:
 - Handled edge cases and errors to provide a smooth user experience.
 
 ## What I Learned
-- Improved my understanding of:
+ Improved my understanding of:
 - Android's speech recognition capabilities.
 - Event-driven programming for handling user input and API responses.
 - Designing intuitive UI/UX for mobile applications.
